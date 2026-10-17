@@ -1,0 +1,1 @@
+{"version":2,"defects":{"Tests\\Feature\\ProductServiceTest::test_nao_cria_produto_quando_preco_viola_regra_de_negocio":8,"Tests\\Feature\\ProductServiceTest::test_update_atualiza_o_produto_com_dados_validos":8,"Tests\\Feature\\ProductServiceTest::test_update_nao_altera_o_produto_quando_preco_e_invalido":8},"times":[]}
